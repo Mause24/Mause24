@@ -52,17 +52,34 @@ Mause</a></h1>
 </p> 
 
 <!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
+## 📖 Learned Technologies
+
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,css,discord,express,figma,firebase,github,html,java,js,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,androidstudio,vite,graphql,redux,tailwind,ts,vscode&perline=7" />
   </a>
 </p>
+
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px></picture> Visitor's count :eyes:
+
+
+<p align="center"><img width="500" src="https://profile-counter.glitch.me/{Mause24}/count.svg" alt="Mause24 :: Visitor's Count" /></p>
+
+## 🌐 Social Medias:
+
+<p align="center">
+	<a href="https://www.linkedin.com/in/omar-arenas-fullstack-developer/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+</p>
+
+## ✨ Credits:
+Author: Omar Arenas <br>
+Special Thanks to [durgeshsamariya](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/tree/master/templates) <br>
+Last update: 30/01/2024
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--
 **Mause24/Mause24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
